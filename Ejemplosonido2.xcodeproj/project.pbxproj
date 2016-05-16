@@ -12,6 +12,13 @@
 		3A573CDE1CE7DFC9007D5F76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A573CDC1CE7DFC9007D5F76 /* Main.storyboard */; };
 		3A573CE01CE7DFC9007D5F76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A573CDF1CE7DFC9007D5F76 /* Assets.xcassets */; };
 		3A573CE31CE7DFC9007D5F76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A573CE11CE7DFC9007D5F76 /* LaunchScreen.storyboard */; };
+		3A573CED1CE7E80D007D5F76 /* taylorSiwft.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3A573CEC1CE7E80D007D5F76 /* taylorSiwft.jpg */; };
+		3A573D131CE84051007D5F76 /* ListaCanciones.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A573D121CE84051007D5F76 /* ListaCanciones.swift */; };
+		3A8A760C1CE97B35009A8768 /* Charly_black-Party_Animal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3A8A76071CE97B35009A8768 /* Charly_black-Party_Animal.mp3 */; };
+		3A8A760D1CE97B35009A8768 /* Florida-myHouse.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3A8A76081CE97B35009A8768 /* Florida-myHouse.mp3 */; };
+		3A8A760E1CE97B35009A8768 /* major_lazer_ligth_it_up.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3A8A76091CE97B35009A8768 /* major_lazer_ligth_it_up.mp3 */; };
+		3A8A760F1CE97B35009A8768 /* steve_Angello-Laidback_Luke.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3A8A760A1CE97B35009A8768 /* steve_Angello-Laidback_Luke.mp3 */; };
+		3A8A76101CE97B35009A8768 /* Taylor_Swift-trouble.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3A8A760B1CE97B35009A8768 /* Taylor_Swift-trouble.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		3A573CDF1CE7DFC9007D5F76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A573CE21CE7DFC9007D5F76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A573CE41CE7DFC9007D5F76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A573CEC1CE7E80D007D5F76 /* taylorSiwft.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = taylorSiwft.jpg; sourceTree = "<group>"; };
+		3A573D121CE84051007D5F76 /* ListaCanciones.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListaCanciones.swift; sourceTree = "<group>"; };
+		3A8A76071CE97B35009A8768 /* Charly_black-Party_Animal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Charly_black-Party_Animal.mp3"; sourceTree = "<group>"; };
+		3A8A76081CE97B35009A8768 /* Florida-myHouse.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Florida-myHouse.mp3"; sourceTree = "<group>"; };
+		3A8A76091CE97B35009A8768 /* major_lazer_ligth_it_up.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = major_lazer_ligth_it_up.mp3; sourceTree = "<group>"; };
+		3A8A760A1CE97B35009A8768 /* steve_Angello-Laidback_Luke.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "steve_Angello-Laidback_Luke.mp3"; sourceTree = "<group>"; };
+		3A8A760B1CE97B35009A8768 /* Taylor_Swift-trouble.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Taylor_Swift-trouble.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,12 +68,19 @@
 		3A573CD71CE7DFC9007D5F76 /* Ejemplosonido2 */ = {
 			isa = PBXGroup;
 			children = (
+				3A8A76071CE97B35009A8768 /* Charly_black-Party_Animal.mp3 */,
+				3A8A76081CE97B35009A8768 /* Florida-myHouse.mp3 */,
+				3A8A76091CE97B35009A8768 /* major_lazer_ligth_it_up.mp3 */,
+				3A8A760A1CE97B35009A8768 /* steve_Angello-Laidback_Luke.mp3 */,
+				3A8A760B1CE97B35009A8768 /* Taylor_Swift-trouble.mp3 */,
+				3A573CEC1CE7E80D007D5F76 /* taylorSiwft.jpg */,
 				3A573CD81CE7DFC9007D5F76 /* AppDelegate.swift */,
 				3A573CDA1CE7DFC9007D5F76 /* ViewController.swift */,
 				3A573CDC1CE7DFC9007D5F76 /* Main.storyboard */,
 				3A573CDF1CE7DFC9007D5F76 /* Assets.xcassets */,
 				3A573CE11CE7DFC9007D5F76 /* LaunchScreen.storyboard */,
 				3A573CE41CE7DFC9007D5F76 /* Info.plist */,
+				3A573D121CE84051007D5F76 /* ListaCanciones.swift */,
 			);
 			path = Ejemplosonido2;
 			sourceTree = "<group>";
@@ -124,8 +145,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				3A573CE31CE7DFC9007D5F76 /* LaunchScreen.storyboard in Resources */,
+				3A8A760C1CE97B35009A8768 /* Charly_black-Party_Animal.mp3 in Resources */,
+				3A8A760E1CE97B35009A8768 /* major_lazer_ligth_it_up.mp3 in Resources */,
 				3A573CE01CE7DFC9007D5F76 /* Assets.xcassets in Resources */,
+				3A573CED1CE7E80D007D5F76 /* taylorSiwft.jpg in Resources */,
+				3A8A760F1CE97B35009A8768 /* steve_Angello-Laidback_Luke.mp3 in Resources */,
+				3A8A76101CE97B35009A8768 /* Taylor_Swift-trouble.mp3 in Resources */,
 				3A573CDE1CE7DFC9007D5F76 /* Main.storyboard in Resources */,
+				3A8A760D1CE97B35009A8768 /* Florida-myHouse.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,6 +163,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A573D131CE84051007D5F76 /* ListaCanciones.swift in Sources */,
 				3A573CDB1CE7DFC9007D5F76 /* ViewController.swift in Sources */,
 				3A573CD91CE7DFC9007D5F76 /* AppDelegate.swift in Sources */,
 			);
@@ -287,6 +315,7 @@
 				3A573CE91CE7DFC9007D5F76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
